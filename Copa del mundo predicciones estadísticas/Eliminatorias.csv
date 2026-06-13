@@ -1,0 +1,49 @@
+|,Selección,Confederación / Vía de Clasificación,Rivales Directos en Eliminatorias,Fuerza Base,Penalidad,Fuerza Final,Notas
+1,Argentina,CONMEBOL (1.º),"BR (6), CO (13), UY (17), EC (23), PY (40), CH (42), VE (44), PE (48), BO (80)",165.22,0,165.22,
+2,Ecuador,CONMEBOL (2.º),"AR (3), BR (6), CO (13), UY (17), PY (40), CH (42), VE (44), PE (48), BO (80)",166.88,-2,164.88,
+3,Colombia,CONMEBOL (3.º),"AR (3), BR (6), UY (17), EC (23), PY (40), CH (42), VE (44), PE (48), BO (80)",166.33,-4,162.33,
+4,Uruguay,CONMEBOL (4.º),"AR (3), BR (6), CO (13), EC (23), PY (40), CH (42), VE (44), PE (48), BO (80)",166.77,-6,160.77,
+5,Paraguay,CONMEBOL (6.º),"AR (3), BR (6), CO (13), UY (17), EC (23), CH (42), VE (44), PE (48), BO (80)",169.33,-10,159.33,
+6,Brasil,CONMEBOL (5.º),"AR (3), CO (13), UY (17), EC (23), PY (40), CH (42), VE (44), PE (48), BO (80)",165.55,-8,157.55,
+7,España,UEFA (Grupo E - 1.º),"Turquía (26), Georgia (67), Bulgaria (82)",155.50,0,155.50,
+8,Turquía,UEFA (Grupo E - 2.º),"España (3), Georgia (67), Bulgaria (82)",155.50,-3,152.50,Clasificado vía Play-off (2.º de grupo).
+9,Portugal,UEFA (Grupo F - 1.º),"Hungría (32), Irlanda (58), Armenia (96)",151.50,0,151.50,
+10,Suiza,UEFA (Grupo B - 1.º),"Suecia (28), Eslovenia (52), Kosovo (101)",151.00,0,151.00,
+11,Escocia,UEFA (Grupo C - 1.º),"Dinamarca (16), Grecia (42), Bielorrusia (97)",149.25,0,149.25,
+12,Alemania,UEFA (Grupo A - 1.º),"Eslovaquia (44), Irlanda del Norte (73), Luxemburgo (84)",147.00,0,147.00,
+13,Francia,UEFA (Grupo D - 1.º),"Ucrania (25), Islandia (70), Azerbaiyán (118)",146.25,0,146.25,
+14,Dinamarca,UEFA (Grupo C - 2.º),"Escocia (48), Grecia (42), Bielorrusia (97)",149.25,-3,146.25,Clasificado vía Play-off (2.º de grupo).
+15,Suecia,UEFA (Vía Liga de Naciones),"Suiza (28), Eslovenia (52), Kosovo (101)",151.00,-6,145.00,Penalización de -6 por ruta de Nations League.
+16,Ucrania,UEFA (Grupo D - 2.º),"Francia (2), Islandia (70), Azerbaiyán (118)",146.25,-3,143.25,Clasificado vía Play-off (2.º de grupo).
+17,Croacia,UEFA (Grupo L - 1.º),"Rep. Checa (37), Montenegro (76), Islas Feroe (82), Gibraltar (200)",129.20,0,129.20,
+18,Estados Unidos,CONCACAF (Anfitrión),No participó en eliminatorias,125.95,0,125.95,Coorganizador (Puntaje promedio).
+19,México,CONCACAF (Anfitrión),No participó en eliminatorias,125.95,0,125.95,Coorganizador (Puntaje promedio).
+20,Canadá,CONCACAF (Anfitrión),No participó en eliminatorias,125.95,0,125.95,Coorganizador (Puntaje promedio).
+21,Noruega,UEFA (Grupo I - 1.º),"Israel (42), Estonia (123), Moldavia (149)",125.20,0,125.20,
+22,Inglaterra,UEFA (Grupo K - 1.º),"Serbia (32), Albania (65), Letonia (136), Andorra (164)",119.80,0,119.80,
+23,Países Bajos,UEFA (Grupo G - 1.º),"Polonia (31), Finlandia (63), Lituania (138), Malta (172)",117.80,0,117.80,
+24,Bélgica,UEFA (Grupo J - 1.º),"Gales (29), Macedonia del Norte (69), Kazajistán (107), Liechtenstein (200)",117.80,0,117.80,
+25,Marruecos,CAF (1.º),Bloque de grupos de la confederación africana,115.00,0,115.00,
+26,Senegal,CAF (1.º),Bloque de grupos de la confederación africana,115.00,0,115.00,
+27,Argelia,CAF (1.º),Bloque de grupos de la confederación africana,115.00,0,115.00,
+28,Nigeria,CAF (1.º),Bloque de grupos de la confederación africana,115.00,0,115.00,
+29,Túnez,CAF (1.º),Bloque de grupos de la confederación africana,115.00,0,115.00,
+30,Camerún,CAF (1.º),Bloque de grupos de la confederación africana,115.00,0,115.00,
+31,Japón,AFC (Tercera ronda - 1.º),Grupo C de la zona asiática,112.00,0,112.00,Sin penalización por pase directo.
+32,Irán,AFC (Tercera ronda - 1.º),Grupo A de la zona asiática,112.00,0,112.00,Sin penalización por pase directo.
+33,Corea del Sur,AFC (Tercera ronda - 1.º),Grupo B de la zona asiática,112.00,0,112.00,Sin penalización por pase directo.
+34,Uzbekistán,AFC (Tercera ronda - 2.º),Grupo A de la zona asiática,112.00,0,112.00,Sin penalización por pase directo.
+35,Jordania,AFC (Tercera ronda - 2.º),Grupo B de la zona asiática,112.00,0,112.00,Sin penalización por pase directo.
+36,Australia,AFC (Tercera ronda - 2.º),Grupo C de la zona asiática,112.00,0,112.00,Sin penalización por pase directo.
+37,Egipto,CAF (2.º),Bloque de grupos de la confederación africana,115.00,-5,110.00,
+38,Costa de Marfil,CAF (2.º),Bloque de grupos de la confederación africana,115.00,-5,110.00,
+39,Ghana,CAF (2.º - Play-off),Bloque de grupos de la confederación africana,115.00,-5,110.00,
+40,Panamá,CONCACAF (Tercera ronda - 1.º),Grupo A de la zona norteña,110.00,0,110.00,Sin penalización por pase directo.
+41,Curazao,CONCACAF (Tercera ronda - 1.º),Grupo B de la zona norteña,110.00,0,110.00,Sin penalización por pase directo.
+42,Haití,CONCACAF (Tercera ronda - 1.º),Grupo C de la zona norteña,110.00,0,110.00,Sin penalización por pase directo.
+43,Austria,UEFA (Grupo H - 1.º),"Bosnia (74), Rumania (45), Chipre (121), San Marino (200)",107.60,0,107.60,
+44,Arabia Saudita,AFC (Cuarta ronda - 1.º),Fase final de la zona asiática,112.00,-5,107.00,
+45,Catar,AFC (Cuarta ronda - 1.º),Fase final de la zona asiática,112.00,-5,107.00,
+46,Bosnia y Herzegovina,UEFA (Grupo H - 2.º),"Austria (107.60), Rumania (45), Chipre (121), San Marino (200)",107.60,-3,104.60,Clasificado vía Play-off (2.º de grupo).
+47,Irak,AFC (Quinta ronda - Repechaje),Fase final + Repesca intercontinental,112.00,-15,97.00,
+48,Nueva Zelanda,OFC (1.º),Bloque de Oceanía,55.00,0,55.00,
