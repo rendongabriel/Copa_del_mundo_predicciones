@@ -167,7 +167,7 @@ Para cada enfrentamiento, el modelo predice **P(A clasifica)**. Si P ≥ 50%, av
 | Archivo | Descripción |
 |---------|-------------|
 | `dataset_mundial_2026_v6.csv` | Dataset principal — 48 equipos × 23 variables |
-| `mundial_2026_xgboost.ipynb` | Notebook completo con modelo, dashboards y bracket |
+| `mundial_2026_xgboost_18_FINAL.ipynb` | Notebook completo con modelo, dashboards y bracket |
 | `Eliminatorias.csv` | Fuerza Final de eliminatorias por selección (fuente: cálculo propio) |
 | `Copas_intercontinentales.csv` | Poder Final en copas continentales con ajuste por confederación |
 
